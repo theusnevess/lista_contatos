@@ -24,4 +24,11 @@ Após preencher as informações, clique em "Salvar" para salvar o novo contato.
  - Exclusão de Contatos
  - Exibição detalhada dos contatos
 
+**Utilização da Extreme Programming (XP) no projeto**
+- Planejamento
+- Desenvolvimento orientado a testes
+- Refatoração contínua
+- Padronização do código
+- Design simples
+
 
