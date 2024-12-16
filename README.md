@@ -8,9 +8,11 @@ E-mail
 Telefone
 Após preencher as informações, clique em "Salvar" para salvar o novo contato.
 
+![Tela inicial sem contatos adicionados](https://github.com/theusnevess/lista_contatos/blob/main/tela_inicial.PNG)
+
 ![Tela de inserir contatos/editar contatos](https://github.com/theusnevess/lista_contatos/blob/main/tela%20adiciona%20contato.PNG)
 
-![Tela inicial com contatos adicionados](https://github.com/theusnevess/lista_contatos/blob/main/contatos%20lista.PNG)
+![Tela inicial com contatos adicionados](https://github.com/theusnevess/lista_contatos/blob/main/contatos_lista.PNG)
 
 #Editar contato
  - Se você deseja alterar os dados de um contato existente, toque no ícone de lápis ao lado do nome do contato. Após fazer as edições desejadas, clique em "Salvar" para salvar as mudanças.
