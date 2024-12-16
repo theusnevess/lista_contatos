@@ -8,6 +8,10 @@ E-mail
 Telefone
 Após preencher as informações, clique em "Salvar" para salvar o novo contato.
 
+![Tela de inserir contatos/editar contatos](https://drive.google.com/file/d/1LzIgr0XYt_WLiRzKbI4wajckPte_Rm3g/view?usp=drive_link)
+
+![Tela inicial com contatos adicionados](https://drive.google.com/file/d/1_ugnDqpqPAtsEc-KYYIngDzfvo8U9OQg/view?usp=drive_link)
+
 #Editar contato
  - Se você deseja alterar os dados de um contato existente, toque no ícone de lápis ao lado do nome do contato. Após fazer as edições desejadas, clique em "Salvar" para salvar as mudanças.
 
